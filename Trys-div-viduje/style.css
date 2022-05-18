@@ -1,0 +1,28 @@
+div {
+    display: inline-block;
+    width: 100%;
+    border: 2px solid black;   
+
+}
+
+.pirmas {
+    border: 2px solid black;   
+    width: 20%;
+    height: 60px;
+    margin-left: 9%;
+    margin-top: 30px;
+    margin-bottom: 30px;      
+    text-align: center;
+   
+    
+}
+.spalva1 {
+    background-color: antiquewhite;
+}
+.spalva2 {
+    background-color: cyan;
+}
+.spalva3 {
+    background-color: darkkhaki;
+}
+
