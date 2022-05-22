@@ -1,0 +1,72 @@
+
+.pagrindinis {
+    width: 100%;
+    height: 600px;
+    border: 2px solid black;
+    
+}
+.antras-didelis {
+    display: inline-block;
+    width: 45%;
+    height: 550px;
+    border: 2px solid black;
+    margin-top: 25px;
+    margin-left: 3%;
+    vertical-align: top;
+
+}
+.antras-vidus-per-visa {
+   
+    width: 95%;
+    height: 120px;
+    border: 2px solid black;
+    
+}
+.antras-vidus-vidurinis {
+ 
+    width: 95%;
+    height: 250px;
+    
+  
+}
+.vidiniu-bloku-parastes {
+    margin-top: 11px;
+    margin-left: 2%;
+}
+.vidurinio-vidus {
+    display: inline-block;
+    width: 46.5%;
+    height: 250px;
+    border: 2px solid black;  
+   
+}
+.desines-lygiavimas1 {
+    margin-right: 4.5%;
+}
+.desinieji-per-visa {
+   
+    width: 95%;
+    height: 163px;   
+
+}
+.vidurinio-vidus2 {
+    display: inline-block;
+    width: 46.5%;
+    height: 163px;
+    border: 2px solid black;    
+}
+.vidurinio-vidus3 {
+    display: inline-block;
+    height: 163px;
+    border: 2px solid black;
+    width: 60%;
+    margin-right: 3%;
+}
+.vidurinio-vidus4 {
+    display: inline-block;
+    height: 163px;
+    border: 2px solid black;
+    width: 34%;
+   
+
+}
